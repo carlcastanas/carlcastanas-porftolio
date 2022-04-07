@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Sun, 24 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/tag/interview/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/infosys-power-programmer-interview-experience/</guid>
+    <title>Infosys Power Programmer Interview Experience</title>
+    <link>https://akashrajpurohit.com/blog/infosys-power-programmer-interview-experience/</link>
+    <description>Sharing my Infosys power programmer interview experience</description>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/lti-interview-experience/</guid>
+    <title>LNT Infotech (LTI) Interview Experience.</title>
+    <link>https://akashrajpurohit.com/blog/lti-interview-experience/</link>
+    <description>Sharing my LTI pool placement process with the interview experience.</description>
+    <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/tcs-codevita-interview-experience/</guid>
+    <title>TCS Codevita Interview Experience</title>
+    <link>https://akashrajpurohit.com/blog/tcs-codevita-interview-experience/</link>
+    <description>Sharing my TCS Codevita interview experience with bonus tips and questions.</description>
+    <pubDate>Wed, 15 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+    </channel>
+  </rss>

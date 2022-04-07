@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Fri, 20 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/tag/competition/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/hackwithinfy-round-2-experience/</guid>
+    <title>HackWithInfy 2019 Round 2 Experience.</title>
+    <link>https://akashrajpurohit.com/blog/hackwithinfy-round-2-experience/</link>
+    <description>Sharing my Hackwithinfy 2019 Round 2 experience and other useful tips.</description>
+    <pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>competition</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/hackwithinfy-round-1-experience/</guid>
+    <title>HackWithInfy 2019 Round 1 Experience.</title>
+    <link>https://akashrajpurohit.com/blog/hackwithinfy-round-1-experience/</link>
+    <description>Sharing my Hackwithinfy 2019 Round 1 experience and other useful tips.</description>
+    <pubDate>Sun, 15 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>competition</category>
+  </item>
+
+    </channel>
+  </rss>

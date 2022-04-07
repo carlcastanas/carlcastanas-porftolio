@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Fri, 03 Jan 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/tag/personal/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/welcome-to-my-website/</guid>
+    <title>Welcome to my website</title>
+    <link>https://akashrajpurohit.com/blog/welcome-to-my-website/</link>
+    <description>Finally I have started with this blogging platform. Hope you will have a good time here 😍😍</description>
+    <pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>personal</category>
+  </item>
+
+    </channel>
+  </rss>

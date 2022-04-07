@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Fri, 04 Jun 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/tag/javascript/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs/</guid>
+    <title>How to use ES6 import syntax in Node.js</title>
+    <link>https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs/</link>
+    <description>Learn how to quickly start using ES6 import syntax in Node.js</description>
+    <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category><category>nodejs</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/new-features-in-es2020-with-sample-examples/</guid>
+    <title>New Features in ES2020 with code examples.</title>
+    <link>https://akashrajpurohit.com/blog/new-features-in-es2020-with-sample-examples/</link>
+    <description>Get insights about new features added in Javascript es2020 like BigInt, Promise.allSettled, Optional Chaining and many more.</description>
+    <pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-reduce-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .reduce() method with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-reduce-method-in-javascript-with-code-examples/</link>
+    <description>Learn about Javascript array reduce method also chaining it with map and filter</description>
+    <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-filter-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .filter() method with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-filter-method-in-javascript-with-code-examples/</link>
+    <description>Learn about Javascript array filter method in easiest way possible.</description>
+    <pubDate>Tue, 07 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-map-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .map() method under 5 minutes with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-map-method-in-javascript-with-code-examples/</link>
+    <description>Comprehensive yet very easy explanation about JavaScript array map method along with code examples</description>
+    <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+    </channel>
+  </rss>

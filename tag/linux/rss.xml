@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Tue, 02 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/tag/linux/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/increase-root-partition-size-on-fedora/</guid>
+    <title>Increase Root Partition Size On Fedora</title>
+    <link>https://akashrajpurohit.com/blog/increase-root-partition-size-on-fedora/</link>
+    <description>Learn how to increase root partition size on fedora in 2 simple steps.</description>
+    <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/backup-users-home-directory-in-linux-using-tar-command/</guid>
+    <title>Backup Users Home Directory In Linux Using Tar Command</title>
+    <link>https://akashrajpurohit.com/blog/backup-users-home-directory-in-linux-using-tar-command/</link>
+    <description>Learn how to easily and systematically backup your home directory in linux.</description>
+    <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>linux</category>
+  </item>
+
+    </channel>
+  </rss>

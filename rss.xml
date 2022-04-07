@@ -1,0 +1,204 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Akash Rajpurohit</title>
+      <link>https://akashrajpurohit.com/blogs/</link>
+      <description>Akash Rajpurohit is a self taught, software developer based in India, Mumbai who specializes in developing web applications and cross platform mobile applications using modern technologies.</description>
+      <language>en-us</language>
+      <managingEditor>me@akashrajpurohit.com (Akash Rajpurohit)</managingEditor>
+      <webMaster>me@akashrajpurohit.com (Akash Rajpurohit)</webMaster>
+      <lastBuildDate>Fri, 04 Jun 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://akashrajpurohit.com/rss.xml/" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs/</guid>
+    <title>How to use ES6 import syntax in Node.js</title>
+    <link>https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs/</link>
+    <description>Learn how to quickly start using ES6 import syntax in Node.js</description>
+    <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category><category>nodejs</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/increase-root-partition-size-on-fedora/</guid>
+    <title>Increase Root Partition Size On Fedora</title>
+    <link>https://akashrajpurohit.com/blog/increase-root-partition-size-on-fedora/</link>
+    <description>Learn how to increase root partition size on fedora in 2 simple steps.</description>
+    <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/backup-users-home-directory-in-linux-using-tar-command/</guid>
+    <title>Backup Users Home Directory In Linux Using Tar Command</title>
+    <link>https://akashrajpurohit.com/blog/backup-users-home-directory-in-linux-using-tar-command/</link>
+    <description>Learn how to easily and systematically backup your home directory in linux.</description>
+    <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/disable-source-maps-in-gatsbyjs-v2/</guid>
+    <title>Disable Source Maps in GatsbyJs V2 for Production.</title>
+    <link>https://akashrajpurohit.com/blog/disable-source-maps-in-gatsbyjs-v2/</link>
+    <description>Quickly disable source maps in gatsbyjs for your production website.</description>
+    <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>gatsby</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/infosys-power-programmer-interview-experience/</guid>
+    <title>Infosys Power Programmer Interview Experience</title>
+    <link>https://akashrajpurohit.com/blog/infosys-power-programmer-interview-experience/</link>
+    <description>Sharing my Infosys power programmer interview experience</description>
+    <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/how-to-manage-multiple-nodejs-versions-on-your-system/</guid>
+    <title>How to manage multiple Node.js versions on your system</title>
+    <link>https://akashrajpurohit.com/blog/how-to-manage-multiple-nodejs-versions-on-your-system/</link>
+    <description>Learn how to manage multiple versions of Node.js on your local system with ease.</description>
+    <pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>nodejs</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/top-free-services-to-deploy-full-stack-applications/</guid>
+    <title>Top Free Services To Deploy Full-Stack Applications (Back-end, Front-end, Databases)</title>
+    <link>https://akashrajpurohit.com/blog/top-free-services-to-deploy-full-stack-applications/</link>
+    <description>Sharing the list of these amazing free services that can help you go online with your app for free.</description>
+    <pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/lti-interview-experience/</guid>
+    <title>LNT Infotech (LTI) Interview Experience.</title>
+    <link>https://akashrajpurohit.com/blog/lti-interview-experience/</link>
+    <description>Sharing my LTI pool placement process with the interview experience.</description>
+    <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/api-rate-limit-in-nodejs-and-expressjs/</guid>
+    <title>API Rate Limit for Small Size to Large Production Ready Applications in Node.js</title>
+    <link>https://akashrajpurohit.com/blog/api-rate-limit-in-nodejs-and-expressjs/</link>
+    <description>Learn how to quickly rate limit your API endpoints for small and large size applications</description>
+    <pubDate>Sun, 03 May 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>nodejs</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/hackwithinfy-round-2-experience/</guid>
+    <title>HackWithInfy 2019 Round 2 Experience.</title>
+    <link>https://akashrajpurohit.com/blog/hackwithinfy-round-2-experience/</link>
+    <description>Sharing my Hackwithinfy 2019 Round 2 experience and other useful tips.</description>
+    <pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>competition</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/hackwithinfy-round-1-experience/</guid>
+    <title>HackWithInfy 2019 Round 1 Experience.</title>
+    <link>https://akashrajpurohit.com/blog/hackwithinfy-round-1-experience/</link>
+    <description>Sharing my Hackwithinfy 2019 Round 1 experience and other useful tips.</description>
+    <pubDate>Sun, 15 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>competition</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/github-cli-tool/</guid>
+    <title>Github CLI ready for your terminal.</title>
+    <link>https://akashrajpurohit.com/blog/github-cli-tool/</link>
+    <description>Read more about the new beta feature added by Github which is their Command Line Interface(CLI).</description>
+    <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>git</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/new-features-in-es2020-with-sample-examples/</guid>
+    <title>New Features in ES2020 with code examples.</title>
+    <link>https://akashrajpurohit.com/blog/new-features-in-es2020-with-sample-examples/</link>
+    <description>Get insights about new features added in Javascript es2020 like BigInt, Promise.allSettled, Optional Chaining and many more.</description>
+    <pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/5-basic-git-commands-every-developer-must-know/</guid>
+    <title>5 Basic Git Commands Every Developer Must Know</title>
+    <link>https://akashrajpurohit.com/blog/5-basic-git-commands-every-developer-must-know/</link>
+    <description>Learn the top 5 basic git commands with examples that you must know as a developer in 2020.</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>git</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/tcs-codevita-interview-experience/</guid>
+    <title>TCS Codevita Interview Experience</title>
+    <link>https://akashrajpurohit.com/blog/tcs-codevita-interview-experience/</link>
+    <description>Sharing my TCS Codevita interview experience with bonus tips and questions.</description>
+    <pubDate>Wed, 15 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-reduce-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .reduce() method with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-reduce-method-in-javascript-with-code-examples/</link>
+    <description>Learn about Javascript array reduce method also chaining it with map and filter</description>
+    <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-filter-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .filter() method with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-filter-method-in-javascript-with-code-examples/</link>
+    <description>Learn about Javascript array filter method in easiest way possible.</description>
+    <pubDate>Tue, 07 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/learn-map-method-in-javascript-with-code-examples/</guid>
+    <title>Learn JavaScript Array .map() method under 5 minutes with code examples</title>
+    <link>https://akashrajpurohit.com/blog/learn-map-method-in-javascript-with-code-examples/</link>
+    <description>Comprehensive yet very easy explanation about JavaScript array map method along with code examples</description>
+    <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://akashrajpurohit.com/blog/welcome-to-my-website/</guid>
+    <title>Welcome to my website</title>
+    <link>https://akashrajpurohit.com/blog/welcome-to-my-website/</link>
+    <description>Finally I have started with this blogging platform. Hope you will have a good time here 😍😍</description>
+    <pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate>
+    <author>me@akashrajpurohit.com (Akash Rajpurohit)</author>
+    <category>personal</category>
+  </item>
+
+    </channel>
+  </rss>
